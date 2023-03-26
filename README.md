@@ -16,3 +16,11 @@ It really just fucks with the lock because you're going opposite of what you're 
 
 # Blatant 
 You're just flying around LOL
+
+# AIM VIEWER SECTION
+
+# Tracer Key
+Sets the key to see the tracer of aim
+
+# View Key
+Sets the key to choose the player you want to view.
